@@ -1,3 +1,31 @@
+/ --- STYLING UTILS ---
+const style = {
+    prefix: '%c[QuestBot]%c ',
+    main: 'color: #5865F2; font-weight: bold;', // Discord Blurple
+    text: 'color: #ffffff;',
+    success: 'color: #3ba55c; font-weight: bold;',
+    warning: 'color: #faa61a; font-weight: bold;',
+    error: 'color: #ed4245; font-weight: bold;'
+};
+
+const log = (msg, type = 'text') => {
+    console.log(`${style.prefix}${msg}`, style.main, style[type]);
+};
+
+// --- STARTUP HEADER ---
+console.clear();
+console.log(
+    `%c
+    ███╗   ██╗███████╗██████╗ 
+    ████╗  ██║██╔════╝██╔══██╗
+    ██╔██╗ ██║█████╗  ██████╔╝
+    ██║╚██╗██║██╔══╝  ██╔══██╗
+    ██║ ╚████║███████╗██║  ██║
+    ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+    🚀 Discord Quest Automator Loaded
+    `, "color: #5865F2; font-weight: bold;"
+);
+
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
