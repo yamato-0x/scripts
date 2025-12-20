@@ -21,7 +21,7 @@ To keep your console clean, you can run any script in this repo using a "Remote 
 Copy and paste this into your Discord console:
 
 ```javascript
-fetch('[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/discord-utility.js').then(r](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/discord-utility.js').then(r) => r.text()).then(eval);
+fetch('https://raw.githubusercontent.com/yamato-0x/scripts/refs/heads/main/Discord/script.js').then(r => r.text()).then(eval);
 ```
 
 ---
