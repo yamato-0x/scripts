@@ -1,4 +1,4 @@
-/ --- STYLING UTILS ---
+// --- STYLING UTILS ---
 const style = {
     prefix: '%c[QuestBot]%c ',
     main: 'color: #5865F2; font-weight: bold;', // Discord Blurple
