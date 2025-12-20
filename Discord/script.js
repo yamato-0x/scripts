@@ -146,7 +146,7 @@ if(!quest) {
 				}
 			}
 			
-			console.log("Quest completed!")
+			console.log("%c[Toolbox] Quest Script Initialized!", "color: #5865F2; font-weight: bold; font-size: 14px;");
 		}
 		fn()
 	}
