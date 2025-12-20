@@ -8,7 +8,7 @@ A collection of utility scripts designed to be executed via the browser develope
 
 | Script Name | Target Site | Description | Execution Link |
 | :--- | :--- | :--- | :--- |
-| **Discord Utility** | Discord | automatically complete Discord Quests without playing/watching the game/ad | [View Code](./Discord/script.js) |
+| **Discord Quests** | Discord | automatically complete Discord Quests without playing/watching the game/ad | [View Code](./Discord/script.js) |
 | *More coming soon* | *TBD* | *Future automation scripts...* | - |
 
 ---
