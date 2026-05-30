@@ -28,8 +28,5 @@ fetch('https://raw.githubusercontent.com/yamato-0x/scripts/refs/heads/main/Disco
 
 # ⚠️ Security & Usage
 
-**[!CAUTION] Self-XSS Warning** : Never paste code into your console unless you understand what it does. Malicious scripts can steal login tokens or session cookies.
 
 * **Personal Use** : These scripts are for educational and personal productivity purposes.
-
-* **TOS Compliance** : Be aware that running automation scripts on platforms like Discord can technically violate their Terms of Service. Use at your own risk.
