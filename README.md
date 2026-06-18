@@ -23,6 +23,7 @@ Copy and paste this into your Discord console:
 ```javascript
 fetch('https://raw.githubusercontent.com/yamato-0x/scripts/refs/heads/main/Discord/index.js').then(r => r.text()).then(eval);
 ```
+⚠️ if the utility failed to load, make sure to copy the code inside `Discord/index.js` and past it in the Dev console.
 
 ---
 
